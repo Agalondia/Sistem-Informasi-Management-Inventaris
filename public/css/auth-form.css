@@ -1,0 +1,26 @@
+  .form-signin input[type="email"] {
+    margin-bottom                 : -1px;
+    border-bottom-right-radius    : 0;
+    border-bottom-left-radius     : 0;
+  }
+  
+  .form-signin input[type="password"] {
+    margin-bottom                 : 15px;
+    border-top-left-radius        : 0;
+    border-top-right-radius       : 0;
+  }
+
+  .form-registration input {
+    border-radius                 : 0;
+    margin-bottom                 : -1px;
+  }
+
+  #auth-form {     
+    width: 1800px;           /* Set this to your convenience */
+    height: 400px;          /* Set this to your convenience */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -250px;     /* Half of height */
+    margin-left: -900px;     /* Half of width */
+}

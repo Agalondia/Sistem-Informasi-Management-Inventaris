@@ -1,0 +1,46 @@
+[
+    {
+        "type": "Group",
+        "name": "SIMI",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "SidoPT5cxWEfkVC3"
+    },
+    {
+        "type": "File",
+        "name": "c:\\laragon\\www\\Sistem-Informasi-Management-Inventaris\\routes\\web.php",
+        "parent_id": "SidoPT5cxWEfkVC3",
+        "fsPath": "c:\\laragon\\www\\Sistem-Informasi-Management-Inventaris\\routes\\web.php",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "SoEYFzCavx607lc9"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\laragon\\www\\Sistem-Informasi-Management-Inventaris\\resources\\views",
+        "parent_id": "SidoPT5cxWEfkVC3",
+        "fsPath": "c:\\laragon\\www\\Sistem-Informasi-Management-Inventaris\\resources\\views",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "Lh2lYyWf301tZIJ4"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\laragon\\www\\Sistem-Informasi-Management-Inventaris\\app\\Http\\Controllers",
+        "parent_id": "SidoPT5cxWEfkVC3",
+        "fsPath": "c:\\laragon\\www\\Sistem-Informasi-Management-Inventaris\\app\\Http\\Controllers",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "X0s65eG7zNQFylnS"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\laragon\\www\\Sistem-Informasi-Management-Inventaris\\app\\Models",
+        "parent_id": "SidoPT5cxWEfkVC3",
+        "fsPath": "c:\\laragon\\www\\Sistem-Informasi-Management-Inventaris\\app\\Models",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "rdHNlSYABn4ycs5P"
+    }
+]
