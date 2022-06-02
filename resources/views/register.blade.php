@@ -30,7 +30,7 @@
                         autofocus>
 
                     <label for="name">
-                        Name
+                        Nama
                     </label>
 
                     @error('name')
