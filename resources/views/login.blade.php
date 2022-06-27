@@ -64,7 +64,7 @@
             </form>
 
             <a href="register" class="w-100 btn btn-lg btn-primary">
-                Klik Disini Untuk Daftar
+                Klik Di Sini Untuk Daftar
             </a>
 
             <div class="container my-3">
